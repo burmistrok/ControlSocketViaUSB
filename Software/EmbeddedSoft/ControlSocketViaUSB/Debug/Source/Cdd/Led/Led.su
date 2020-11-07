@@ -1,0 +1,3 @@
+Led.c:24:6:vLed_Init	16	static
+Led.c:37:6:vLed_DeInit	4	static
+Led.c:49:6:vLed_MainFunction	8	static

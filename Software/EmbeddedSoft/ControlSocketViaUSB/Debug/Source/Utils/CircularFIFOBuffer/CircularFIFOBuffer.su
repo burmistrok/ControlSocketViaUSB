@@ -1,0 +1,5 @@
+CircularFIFOBuffer.c:21:16:CircularFIFOBuffer_isFull	16	static
+CircularFIFOBuffer.c:29:16:CircularFIFOBuffer_isEmpty	16	static
+CircularFIFOBuffer.c:40:17:CircularFIFOBuffer_getNumberOfElements	16	static
+CircularFIFOBuffer.c:51:6:bCircularFIFOBuffer_getElement	16	static
+CircularFIFOBuffer.c:68:6:bCircularFIFOBuffer_addElement	16	static

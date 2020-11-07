@@ -1,0 +1,3 @@
+TheApp.c:19:6:vTheApp_Init	16	static
+TheApp.c:27:6:vTheApp_DeInit	4	static
+TheApp.c:32:6:vTheApp_MainFunction	4	static

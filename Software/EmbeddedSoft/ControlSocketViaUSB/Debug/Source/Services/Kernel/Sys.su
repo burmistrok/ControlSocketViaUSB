@@ -1,0 +1,4 @@
+Sys.c:21:6:vSys_Init	16	static
+Sys.c:34:6:vSys_DeInit	4	static
+Sys.c:46:10:u32Sys_GetRunTime	4	static
+Sys.c:57:15:vSysRunModeTick	4	static

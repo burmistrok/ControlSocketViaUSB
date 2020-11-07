@@ -1,0 +1,7 @@
+SchM_Callouts.c:21:6:vSchM_IdleTask	4	static
+SchM_Callouts.c:32:6:vSchM_BaseRecurrenceTask	8	static
+SchM_Callouts.c:46:6:vSchM_BaseRecurrenceTaskDiv2	4	static
+SchM_Callouts.c:58:6:vSchM_BaseRecurrenceTaskDiv4	4	static
+SchM_Callouts.c:70:6:vSchM_BaseRecurrenceTaskDiv8	4	static
+SchM_Callouts.c:82:6:vSchM_BaseRecurrenceTaskDiv16	4	static
+SchM_Callouts.c:95:6:vSchM_BaseRecurrenceTaskDiv32	4	static
