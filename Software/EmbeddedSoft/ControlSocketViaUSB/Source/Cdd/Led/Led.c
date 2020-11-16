@@ -8,7 +8,7 @@
 #include "Led.h"
 
 
-#define TOGGLE_LED()		HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin);
+#define TOGGLE_LED()		HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin)
 #define TIME_OUT_FOR_1S		1000u
 
 
@@ -49,15 +49,21 @@ void vLed_DeInit(void)
 void vLed_MainFunction(void)
 {
 
-
-	if (0 < u16_TimeOut--)
+	if (false == bLedInit)
 	{
 		return;
 	}
 	else
 	{
-		TOGGLE_LED();
-		u16_TimeOut = TIME_OUT_FOR_1S;
+		if (0 < u16_TimeOut--)
+		{
+			return;
+		}
+		else
+		{
+			TOGGLE_LED();
+			u16_TimeOut = TIME_OUT_FOR_1S;
+		}
 	}
 
 }

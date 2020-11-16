@@ -14,7 +14,7 @@
 
 
 
-#define BUFFER_SIZE 255u
+#define BUFFER_SIZE 1024u
 
 
 typedef struct{

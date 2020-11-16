@@ -33,7 +33,8 @@ Source/Services/Kernel/Init.o: ../Source/Services/Kernel/Init.c \
  D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Services/SchM/SchM.h \
  D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Cdd/Led/Led.h \
  ../Core/Inc/gpio.h ../Core/Inc/main.h \
- D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/App/TheApp/TheApp.h
+ D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/App/TheApp/TheApp.h \
+ D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Cdd/VirtulComPort/VirtualComPort.h
 
 ../Source/Services/Kernel/Init.h:
 
@@ -108,3 +109,5 @@ D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaU
 ../Core/Inc/main.h:
 
 D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/App/TheApp/TheApp.h:
+
+D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Cdd/VirtulComPort/VirtualComPort.h:

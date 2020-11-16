@@ -12,6 +12,7 @@
 #include "core_cm3.h"
 #include "gpio.h"
 #include "TheApp.h"
+#include "VirtualComPort.h"
 
 /****************************************************************************************
  * Funtion:

@@ -1,5 +1,5 @@
 VirtualComPort.c:62:6:vVirtualComPort_Init	16	static
-VirtualComPort.c:79:6:vVirtualComPort_MainFunction	272	static
+VirtualComPort.c:79:6:vVirtualComPort_MainFunction	4	static
 VirtualComPort.c:113:6:vVirtualComPort_ReceiveData_Callback	24	static
 VirtualComPort.c:137:6:vVirtualComPort_SendBuffer	16	static
 VirtualComPort.c:151:6:bVirtualComPort_GetChar	24	static

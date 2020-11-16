@@ -33,7 +33,7 @@
 /*!< Type definitions section ---------------------------------------------------------------------- */
 #define TIMEOUT_FOR_1SEC		1000u
 
-#define USE_ECHO
+//#define USE_ECHO
 
 /*!< Exported variables section -------------------------------------------------------------------- */
 

@@ -29,7 +29,8 @@ Source/App/TheApp/TheApp.o: ../Source/App/TheApp/TheApp.c \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
  D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Inlude/Modules.h \
- D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Cdd/VirtulComPort/VirtualComPort.h
+ D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Cdd/VirtulComPort/VirtualComPort.h \
+ ../Source/App/TheApp/TheApp_Type.h
 
 ../Source/App/TheApp/TheApp.h:
 
@@ -94,3 +95,5 @@ D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaU
 D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Inlude/Modules.h:
 
 D:/oleg/Repositories/ControlSocketViaUSB/Software/EmbeddedSoft/ControlSocketViaUSB/Source/Cdd/VirtulComPort/VirtualComPort.h:
+
+../Source/App/TheApp/TheApp_Type.h:

@@ -10,7 +10,9 @@
 
 #define USE_SYS
 #define USE_SCHM
+//#if 0
 #define USE_LED
+//#endif
 #define USE_VCP
 #define USE_THEAPP
 

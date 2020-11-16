@@ -1,3 +1,5 @@
-TheApp.c:19:6:vTheApp_Init	16	static
-TheApp.c:27:6:vTheApp_DeInit	4	static
-TheApp.c:32:6:vTheApp_MainFunction	4	static
+TheApp.c:38:6:vTheApp_Init	16	static
+TheApp.c:55:6:vTheApp_DeInit	4	static
+TheApp.c:60:6:vTheApp_MainFunction	16	static
+TheApp.c:133:13:vTheAppProcessingCmd	16	static
+TheApp.c:151:13:vTheAppExecutionCmd	16	static
